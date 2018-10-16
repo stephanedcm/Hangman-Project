@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-# HANGMAN PROJECT - M. KLAI
-# © STEPHANE DUCHEMIN & YANIS MAHRANE - EFREI L1 INTERNATIONAL 2022
+# HANGMAN PROJECT
 
 #=======================================================================================================================================================================================================
 #																							IMPORT OF REQUIRED LIBRARIES
